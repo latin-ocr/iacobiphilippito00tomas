@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iacobiphilippito00tomas_0314.png"; bbox 0 0 1835 2781; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 183 152 1610 519">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 183 152 1604 511">
+     <span class='ocr_line' id='line_1_1' title="bbox 183 152 1260 266; baseline -0.019 -27"><span class='ocrx_word' id='word_1_1' title='bbox 183 212 199 239; x_wconf 84' lang='lat'>-.</span> <span class='ocrx_word' id='word_1_2' title='bbox 233 170 369 266; x_wconf 19' lang='lat'>’280‘</span> <span class='ocrx_word' id='word_1_3' title='bbox 703 174 803 232; x_wconf 76' lang='lat' dir='ltr'><em>Ia&#39;c.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 825 160 979 230; x_wconf 73' lang='lat' dir='ltr'><em>‘PhiL</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 999 152 1260 244; x_wconf 72' lang='lat' dir='ltr'><em>Tomafinl</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 340 290 1542 366; baseline -0.02 5"><span class='ocrx_word' id='word_1_6' title='bbox 340 357 344 361; x_wconf 86' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 581 290 1314 366; x_wconf 68' lang='lat' dir='ltr'>SYMBOLVM</span> <span class='ocrx_word' id='word_1_8' title='bbox 1538 356 1542 362; x_wconf 90' lang='lat'>.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 364 419 1610 519; baseline -0.022 -11"><span class='ocrx_word' id='word_1_9' title='bbox 364 419 1610 519; x_wconf 61' lang='lat' dir='ltr'>10.ANTON11MAG1N1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 226 543 1619 783">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 226 543 1619 783">
+     <span class='ocr_line' id='line_1_4' title="bbox 226 543 1619 648; baseline -0.024 4"><span class='ocrx_word' id='word_1_10' title='bbox 226 596 231 599; x_wconf 80' lang='grc'>’</span> <span class='ocrx_word' id='word_1_11' title='bbox 360 543 1619 648; x_wconf 68' lang='lat' dir='ltr'>⁶.MATHEMArxcxſj</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 227 680 1395 783; baseline -0.02 -11"><span class='ocrx_word' id='word_1_12' title='bbox 227 680 234 696; x_wconf 66' lang='lat'><strong>¹</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 559 691 1395 783; x_wconf 61' lang='lat' dir='ltr'>QgLEBERR1M1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 590 1215 1351 1971">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 590 1215 1351 1971">
+     <span class='ocr_line' id='line_1_6' title="bbox 590 1215 1351 1971; baseline 0 810"><span class='ocrx_word' id='word_1_14' title='bbox 590 1215 1351 1971; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1415 2464 1663 2556">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1415 2464 1663 2556">
+     <span class='ocr_line' id='line_1_7' title="bbox 1415 2464 1663 2556; baseline -0.044 -19"><span class='ocrx_word' id='word_1_15' title='bbox 1415 2464 1663 2556; x_wconf 72' lang='lat' dir='ltr'>ALQY.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

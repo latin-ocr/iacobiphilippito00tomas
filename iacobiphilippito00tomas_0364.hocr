@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iacobiphilippito00tomas_0364.png"; bbox 0 0 1835 2781; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 163 109 1195 214">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 163 109 1195 214">
+     <span class='ocr_line' id='line_1_1' title="bbox 163 109 1195 214; baseline -0.017 -21"><span class='ocrx_word' id='word_1_1' title='bbox 163 127 166 130; x_wconf 55' lang='grc'>’</span> <span class='ocrx_word' id='word_1_2' title='bbox 173 152 199 211; x_wconf 86' lang='lat'>3</span> <span class='ocrx_word' id='word_1_3' title='bbox 215 149 255 205; x_wconf 85' lang='lat'>4</span> <span class='ocrx_word' id='word_1_4' title='bbox 266 141 304 214; x_wconf 22' lang='lat'>6·</span> <span class='ocrx_word' id='word_1_5' title='bbox 633 127 739 186; x_wconf 76' lang='lat' dir='ltr'><em>Iac.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 760 113 916 185; x_wconf 65' lang='lat' dir='ltr'><em>Phil.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 935 109 1195 200; x_wconf 57' lang='lat' dir='ltr'><em>Tomafinss</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 188 280 1657 1991">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 188 280 1657 1991">
+     <span class='ocr_line' id='line_1_2' title="bbox 188 280 1657 1991; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 188 280 1657 1991; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 258 2046 1657 2250">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 258 2038 1657 2250">
+     <span class='ocr_line' id='line_1_3' title="bbox 274 2046 1594 2140; baseline -0.002 -6"><span class='ocrx_word' id='word_1_9' title='bbox 274 2051 1084 2139; x_wconf 59' lang='lat' dir='ltr'>RvaLpHxis.;S1ss&lt;0n&#39;rr‚1A</span> <span class='ocrx_word' id='word_1_10' title='bbox 1105 2046 1478 2137; x_wconf 73' lang='lat' dir='ltr'><strong>PATAvmvs</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1504 2047 1594 2140; x_wconf 77' lang='lat' dir='ltr'>IC.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 258 2145 1657 2250; baseline -0.014 -28"><span class='ocrx_word' id='word_1_12' title='bbox 258 2195 262 2222; x_wconf 82' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_13' title='bbox 404 2171 410 2172; x_wconf 62' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 483 2145 753 2250; x_wconf 46' lang='lat' dir='ltr'>C-t—Afffnsco</span> <span class='ocrx_word' id='word_1_15' title='bbox 772 2177 862 2208; x_wconf 68' lang='lat' dir='ltr'>Jus</span> <span class='ocrx_word' id='word_1_16' title='bbox 904 2146 1162 2230; x_wconf 73' lang='lat' dir='ltr'><em>‚Pesensis</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1654 2189 1657 2202; x_wconf 43' lang='lat'>³</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 257 2226 488 2251">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 257 2226 488 2251">
+     <span class='ocr_line' id='line_1_5' title="bbox 257 2226 488 2251; baseline -0.013 3"><span class='ocrx_word' id='word_1_18' title='bbox 257 2226 488 2251; x_wconf 46' lang='lat' dir='ltr'>h-mffl</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
